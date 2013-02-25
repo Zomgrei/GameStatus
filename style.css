@@ -1,0 +1,40 @@
+#cats {
+
+}
+
+#cat_title {
+	font-size: 2.5em;
+	margin: 10px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+article {
+	display: none;
+	margin: 20px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+article h2 {
+	padding: 0;
+	margin: 0;
+}
+
+article h3 {
+	padding: 0;
+	margin: 0;
+	color: blue;
+}
+
+article h3 .completed {
+	color: green;
+}
+
+article h3 .in-progress {
+	color: goldenrod;
+}
+
+article h3 .not-started {
+	color: red;
+}
